@@ -77,6 +77,6 @@ I’m building toward **top-tier AI / ML engineering roles**, with a long-term f
 ---
 
 📫 **Contact**
-- Email: jc6212@srmist.edu.in  
-- LinkedIn: (add link)  
-- GitHub: You’re here
+- Email: jayasuryaa1785@outlook.com
+- LinkedIn: www.linkedin.com/in/jayasuryaachandrasekar/
+- GitHub: You’re here!
