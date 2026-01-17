@@ -1,59 +1,82 @@
-# AI/ML & Software Engineer
+# Jayasuryaa Chandrasekar
 
-Building production-grade machine learning systems with focus on predictive analytics, anomaly detection, and scalable backend architectures.
+Applied AI Engineer building intelligent, end-to-end systems that combine **data, machine learning, and software engineering**.
 
-## Technical Expertise
+My work spans applied ML, emerging deep learning workflows, and production-oriented AI systems — with hands-on experience across temporal, behavioural, and performance-critical data.
 
-**Machine Learning & AI**
-- Time-series forecasting, ensemble methods (XGBoost, LightGBM, Random Forest)
-- Model interpretability (SHAP, LIME)
-- Anomaly detection algorithms
-- Feature engineering pipelines
-- Model deployment and monitoring
+---
 
-**Software Engineering**
-- Backend development (Python, Java, Node.js)
-- Distributed systems and microservices
-- REST APIs and system design
-- Database optimization (SQL, NoSQL)
-- CI/CD and cloud infrastructure (AWS, GCP)
+## What I’m Working On
+- Applied machine learning on real-world datasets (temporal, behavioural, structured)
+- Designing ML systems with strong evaluation, diagnostics, and explainability
+- Expanding into deep learning and representation learning for complex data
+- Full-stack integration of AI models into usable products
 
-## Key Projects
+---
 
-### Electricity Demand Forecasting System
-Production time-series forecasting pipeline predicting grid demand with 40% RMSE improvement over baseline.
+## Selected Projects
 
-**Technical approach:**
-- Engineered 50+ temporal and weather-based features
-- Ensemble model combining XGBoost with feature-specific gradient boosting
-- SHAP analysis for model transparency and regulatory compliance
-- Automated retraining pipeline handling concept drift
+### ⚡ Electricity Demand Forecasting
+End-to-end ML pipeline for electricity demand prediction with extensive feature engineering, lag modeling, and gradient-boosted trees.  
+Achieved **~40% RMSE improvement** over baseline with detailed error analysis and SHAP-based explainability.
 
-**Impact:** Deployed model processing 10M+ predictions monthly with <100ms latency.
+**Tech:** Python, pandas, numpy, XGBoost, SHAP
 
-**Stack:** Python, XGBoost, SHAP, Pandas, Scikit-learn, Docker, Airflow
+---
 
-### Anomaly Detection Framework
-Unsupervised learning system detecting operational anomalies in multi-dimensional telemetry data.
+### 🏎️ F1 AI Telemetry Analyzer
+AI-driven Formula 1 telemetry analysis system built on **12GB+ of FastF1 data**.  
+Delivered **97.8% model accuracy** and **0.49s lap-time MAE**, producing corner-level performance insights using a physics-aware ML pipeline.
 
-**Technical approach:**
-- Hybrid approach combining Isolation Forest and autoencoders
-- Real-time streaming pipeline with sub-second detection
-- Adaptive thresholding reducing false positives by 65%
-- Modular architecture supporting multiple anomaly types
+**Tech:** FastF1, scikit-learn, pandas, numpy, matplotlib
 
-**Impact:** Identified critical system issues 3-5 hours before user impact.
+---
 
-**Stack:** Python, TensorFlow, Scikit-learn, Kafka, Redis, Kubernetes
+### 🌍 Urban Thermal Equity Index (UTEI)
+Built the **first IoT sensor prototype** for urban heat inequality analysis at MS Swaminathan Research Foundation.  
+Collected **150+ field readings**, developed the data-processing pipeline, and co-authored the research methodology for an upcoming publication.
 
-## Current Focus
+**Tech:** ESP8266 (NodeMCU), DHT22, Arduino, Python, pandas, early ML + GIS workflows
 
-- Advanced deep learning architectures for structured data
-- MLOps best practices and model governance
-- Distributed training and inference optimization
+---
 
-## Connect
+### 🧠 Financial Micro-Fraud Detection (Research)
+Designed a multi-layered ML + behavioural analytics framework to detect **salami slicing micro-fraud**.  
+Integrated anomaly detection, clustering, blockchain logging, and real-time risk scoring.
 
-Open to technical discussions and opportunities in AI/ML engineering roles.
+**Outcome:** Co-author of a UK copyright-registered research work.
 
-LinkedIn: [pixelpitstop](https://linkedin.com/in/pixelpitstop) | Email: contact@pixelpitstop.dev
+---
+
+## Experience
+- **Climate & Geospatial Research Intern** — MS Swaminathan Research Foundation  
+- **Research Intern (ML & Fraud Analytics)** — MIT Square  
+- **Freelance AI-Full-Stack Developer**- present 
+
+---
+
+## Tech Stack
+**AI / ML:** Python, pandas, numpy, scikit-learn, XGBoost, SHAP  
+**Deep Learning (in progress):** Representation learning, neural architectures for complex data  
+**Data & Analytics:** Feature engineering, evaluation, error diagnostics  
+**Full-Stack:** React, Node.js, Express, MongoDB, Next.js  
+**Other:** FastF1, Matplotlib, IoT data pipelines
+
+---
+
+## Engineering Philosophy
+I focus on **signal over noise** — models that generalize, metrics that matter, and systems that survive real-world data.
+
+I value clean abstractions, explainability, and AI systems that work beyond notebooks.
+
+---
+
+## Looking Ahead
+I’m building toward **top-tier AI / ML engineering roles**, with a long-term focus on scalable, high-impact intelligent systems across domains.
+
+---
+
+📫 **Contact**
+- Email: jc6212@srmist.edu.in  
+- LinkedIn: (add link)  
+- GitHub: You’re here
