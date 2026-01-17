@@ -1,16 +1,59 @@
-## Hi there 👋
+# AI/ML & Software Engineer
 
-<!--
-**pixelpitstop/pixelpitstop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production-grade machine learning systems with focus on predictive analytics, anomaly detection, and scalable backend architectures.
 
-Here are some ideas to get you started:
+## Technical Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Machine Learning & AI**
+- Time-series forecasting, ensemble methods (XGBoost, LightGBM, Random Forest)
+- Model interpretability (SHAP, LIME)
+- Anomaly detection algorithms
+- Feature engineering pipelines
+- Model deployment and monitoring
+
+**Software Engineering**
+- Backend development (Python, Java, Node.js)
+- Distributed systems and microservices
+- REST APIs and system design
+- Database optimization (SQL, NoSQL)
+- CI/CD and cloud infrastructure (AWS, GCP)
+
+## Key Projects
+
+### Electricity Demand Forecasting System
+Production time-series forecasting pipeline predicting grid demand with 40% RMSE improvement over baseline.
+
+**Technical approach:**
+- Engineered 50+ temporal and weather-based features
+- Ensemble model combining XGBoost with feature-specific gradient boosting
+- SHAP analysis for model transparency and regulatory compliance
+- Automated retraining pipeline handling concept drift
+
+**Impact:** Deployed model processing 10M+ predictions monthly with <100ms latency.
+
+**Stack:** Python, XGBoost, SHAP, Pandas, Scikit-learn, Docker, Airflow
+
+### Anomaly Detection Framework
+Unsupervised learning system detecting operational anomalies in multi-dimensional telemetry data.
+
+**Technical approach:**
+- Hybrid approach combining Isolation Forest and autoencoders
+- Real-time streaming pipeline with sub-second detection
+- Adaptive thresholding reducing false positives by 65%
+- Modular architecture supporting multiple anomaly types
+
+**Impact:** Identified critical system issues 3-5 hours before user impact.
+
+**Stack:** Python, TensorFlow, Scikit-learn, Kafka, Redis, Kubernetes
+
+## Current Focus
+
+- Advanced deep learning architectures for structured data
+- MLOps best practices and model governance
+- Distributed training and inference optimization
+
+## Connect
+
+Open to technical discussions and opportunities in AI/ML engineering roles.
+
+LinkedIn: [pixelpitstop](https://linkedin.com/in/pixelpitstop) | Email: contact@pixelpitstop.dev
