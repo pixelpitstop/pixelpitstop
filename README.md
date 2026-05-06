@@ -6,12 +6,12 @@
 
 ---
 
-## 📌 Quick Links
+## Quick Links
 🔗 [**Portfolio**](https://jayasuryaa.vercel.app) • 📧 [jayasuryaa1785@outlook.com](mailto:jayasuryaa1785@outlook.com) • 💼 [LinkedIn](https://linkedin.com/in/jayasuryaachandrasekar/) • 🐙 [GitHub](https://github.com/pixelpitstop)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **⚡ Electricity Anomaly Detection System** — *Production-Grade ML*
 [**Repository**](https://github.com/pixelpitstop/Time-Series-Forecasting)  
@@ -28,7 +28,7 @@ A production-oriented ML system for detecting anomalous electricity demand in th
 
 ---
 
-### **🚗 CANInsight — Vehicle Diagnostics & Telemetry Intelligence**
+### **CANInsight — Vehicle Diagnostics & Telemetry Intelligence**
 [**Repository**](https://github.com/pixelpitstop/Canbus-project) • [**Live App**](https://caninsight.streamlit.app)  
 Complete automotive CAN bus diagnostics pipeline mimicking real vehicle ECU data handling — from raw bytes to operator-facing insights, built as a demo-ready product.
 
@@ -44,7 +44,7 @@ Complete automotive CAN bus diagnostics pipeline mimicking real vehicle ECU data
 
 ---
 
-### **🛡️ Smart Vehicle Diagnostics & Intrusion Detection System** — *In Progress*
+### **Smart Vehicle Diagnostics & Intrusion Detection System** — *In Progress*
 [**Repository**](https://github.com/pixelpitstop/Smart-Vehicle-Diagnostics-Intrusion-Detection-System)  
 Extended vehicle intelligence platform combining CANInsight diagnostics with CAN bus security and real-time intrusion detection. Designed to flag anomalous or injected CAN frames at the signal level using behavioral analysis.
 
@@ -54,7 +54,7 @@ Extended vehicle intelligence platform combining CANInsight diagnostics with CAN
 
 ---
 
-### **🏎️ F1 AI Telemetry Analyzer** — *In Progress*
+### **F1 AI Telemetry Analyzer** — *In Progress*
 [**Repository**](https://github.com/pixelpitstop/F1-AI-Telemetry-Analyzer)  
 Physics-aware ML system analyzing **12GB+ of F1 telemetry data** from FastF1.  
 **Key Results:** 97.8% accuracy, 0.49s lap-time MAE, corner-level performance insights  
@@ -62,7 +62,7 @@ Physics-aware ML system analyzing **12GB+ of F1 telemetry data** from FastF1.
 
 ---
 
-### **🌍 Urban Thermal Equity Index (UTEI) — Chennai**
+### **Urban Thermal Equity Index (UTEI) — Chennai**
 [**Repository**](https://github.com/pixelpitstop/Urban-Thermal-Equity-Index-using-Machine-Learning)  
 Research-grade geospatial ML project introducing a novel metric to quantify heat distribution inequality across city neighborhoods. Built during MSSRF internship.
 
@@ -78,7 +78,7 @@ Research-grade geospatial ML project introducing a novel metric to quantify heat
 
 ---
 
-### **🚘 AutoIntel — AI Car Recommendation Engine** — *In Progress*
+### **AutoIntel — AI Car Recommendation Engine** — *In Progress*
 [**Repository**](https://github.com/pixelpitstop/Car-recommendation-project)  
 Production-oriented car recommendation service combining structured vehicle catalog data with NLP-driven review intelligence for explainable, ranked recommendations.
 
@@ -94,7 +94,7 @@ Production-oriented car recommendation service combining structured vehicle cata
 
 ---
 
-### **🤖 AI MUN Assistant — Local-First RAG Chatbot**
+### **AI MUN Assistant — Local-First RAG Chatbot**
 [**Repository**](https://github.com/pixelpitstop/AI-Chatbot-project)  
 Production-grade AI assistant for Model United Nations delegates — demonstration of a complete, local-first RAG system with streaming, memory, and structured generation.
 
@@ -115,7 +115,7 @@ Production-grade AI assistant for Model United Nations delegates — demonstrati
 
 ---
 
-### **🧠 RAG System — Production-Ready Retrieval Pipeline** — *In Progress*
+### **RAG System — Production-Ready Retrieval Pipeline** — *In Progress*
 [**Repository**](https://github.com/pixelpitstop/RAG-project)  
 Dockerized, production-oriented Retrieval-Augmented Generation pipeline with clean separation: retrieval system → API layer → evaluation harness.
 
@@ -130,7 +130,7 @@ Dockerized, production-oriented Retrieval-Augmented Generation pipeline with cle
 
 ---
 
-### **🌐 ShadowFox Learning Platform (v2)** — *Full-Stack*
+### **ShadowFox Learning Platform (v2)** — *Full-Stack*
 [**Repository**](https://github.com/pixelpitstop/Shadowfox-website-v2)  
 Full-stack learning platform monorepo for ShadowFox Technologies with polished Next.js 13 frontend and Node.js/Express backend.
 
@@ -146,7 +146,7 @@ Full-stack learning platform monorepo for ShadowFox Technologies with polished N
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages & Frameworks:** Python, JavaScript/TypeScript, C++, React, Node.js, Express, Next.js  
 **AI/ML & Data:** XGBoost, scikit-learn, pandas, NumPy, SHAP, Matplotlib, Seaborn, Ollama, LangChain  
@@ -156,7 +156,7 @@ Full-stack learning platform monorepo for ShadowFox Technologies with polished N
 
 ---
 
-## 💡 Engineering Philosophy
+## Engineering Philosophy
 
 I focus on **signal over noise** — models that generalize, metrics that matter, systems that survive real-world data.
 
@@ -164,7 +164,7 @@ I value **clean abstractions**, **explainability**, and **AI systems that work b
 
 ---
 
-## 🔍 What I'm Building Toward
+## What I'm Building Toward
 
 Top-tier **AI/ML Engineering roles** with a long-term focus on scalable, high-impact intelligent systems across:
 - Applied ML systems at production scale
@@ -174,8 +174,8 @@ Top-tier **AI/ML Engineering roles** with a long-term focus on scalable, high-im
 
 ---
 
-📮 **Let's Connect**  
-💬 Open to discussions on ML systems, full-stack AI projects, and opportunities in AI engineering.
+**Let's Connect**  
+Open to discussions on ML systems, full-stack AI projects, and opportunities in AI engineering.
 
 **Email:** [jayasuryaa1785@outlook.com](mailto:jayasuryaa1785@outlook.com)  
 **LinkedIn:** [linkedin.com/in/jayasuryaachandrasekar](https://linkedin.com/in/jayasuryaachandrasekar/)  
