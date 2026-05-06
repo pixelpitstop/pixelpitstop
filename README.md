@@ -13,7 +13,7 @@
 
 ## Featured Projects
 
-### **⚡ Electricity Anomaly Detection System** — *Production-Grade ML*
+### **Electricity Anomaly Detection System** — *Production-Grade ML*
 [**Repository**](https://github.com/pixelpitstop/Time-Series-Forecasting)  
 A production-oriented ML system for detecting anomalous electricity demand in the PJME hourly grid dataset. Forecast 24h ahead → compute residual → flag anomalies at calibrated thresholds — grounded in industrial monitoring practice.
 
